@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Medical Chatbot Demo](images/demo.png)
+![Medical Chatbot Demo](image/demo.png)
 
 
 # How to run?
