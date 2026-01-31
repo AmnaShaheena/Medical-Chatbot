@@ -1,5 +1,10 @@
 # Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
+## Demo
+
+![Medical Chatbot Demo](images/demo.png)
+
+
 # How to run?
 ### STEPS:
 
